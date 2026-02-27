@@ -25,10 +25,10 @@ def send_push_notification():
     data = {
         "message": {
             #"token": "fz6xutdktw6urasit8wk5q:apa91bgn8zuztxsyy7eygfs5pkqxqg6fsgzoynox_e7b-6ywqrm6h7vfyeiocicm7vvwj1zbohr-1d5ljnraaewwffkbzxcbgfsg1mpf_h-3mz6bxrk8kifizycd9a393e6clxzntpr-",
-            "topic":"nah",
+            "topic":"hq100",
             "notification": {
                 "title": "warnung",
-                "body": "test",
+                #"body": "test",
             },
             "android": {
                 "notification": {
